@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \test.txt
+  - source: \dist\test.txt
     destination: c:\poc_deploy\wwwroot
 # hooks:
 #   BeforeInstall:
